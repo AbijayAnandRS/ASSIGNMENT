@@ -12,7 +12,7 @@ ArrayList<Family> familylist;ListView lv;
     String[] nam={"MOTHER","ME","FATHER","SISTER"};
     String[] descr={"Iam Light Of the family","I'am Me Only","Iam the Driving Force","I always hit my Bro"};
     Integer[] img={R.mipmap.mother,R.mipmap.me,R.mipmap.father,R.mipmap.sister};
-//
+//a
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
