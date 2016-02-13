@@ -9,8 +9,8 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity {
 ArrayList<Family> familylist;ListView lv;
     MyAdapter adapter;
-    String[] nam={"MOTHER","SIMBA","FATHER","SISTER"};
-    String[] descr={"I'am the Light Of Family","I'am me Only","Iam the Path Of Family","I Fight my Bro"};
+    String[] nam={"MOTHER","ME","FATHER","SISTER"};
+    String[] descr={"Iam Light Of the family","I'am Me Only","Iam the Driving Force","I always hit my Bro"};
     Integer[] img={R.mipmap.mother,R.mipmap.me,R.mipmap.father,R.mipmap.sister};
 //
     @Override
